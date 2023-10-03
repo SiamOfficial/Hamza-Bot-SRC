@@ -4,9 +4,9 @@ from discord import app_commands
 from discord.ext import commands
 import praw
 import random
-reddit = praw.Reddit(client_id="m65mVfreEWHjPSSE2wGYaw",
-                       client_secret="KGtkUTTJ73dETW9RzztjY36nklr6dg",
-                       user_agent="Script:halalpostfetching:1.0.0 (by u/SiamOfficial)")
+reddit = praw.Reddit(client_id="CLIENT_ID",
+                       client_secret="CLIENT_SECRET",
+                       user_agent="USER_AGENT")
 
 class MemeCog(commands.Cog):
   def __init__(self, bot):
