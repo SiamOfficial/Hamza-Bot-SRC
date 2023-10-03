@@ -1,0 +1,37 @@
+[
+    {
+        "index": 1,
+        "name": "abudawud",
+        "author_name": "Abu Dawud al-Sijistani"
+    },
+    {
+        "index": 2,
+        "name": "bukhari",
+        "author_name": "Muḥammad ibn Ismā'īl al-Bukhārī"
+    },
+    {
+        "index": 3,
+        "name": "ibnmajah",
+        "author_name": "Ibn Majah"
+    },
+    {
+        "index": 4,
+        "name": "malik",
+        "author_name": "Muwatta Imam Malik"
+    },
+    {
+        "index": 5,
+        "name": "muslim",
+        "author_name": "Muslim ibn al-Ḥajjāj"
+    },
+    {
+        "index": 6,
+        "name": "nasai",
+        "author_name": "Al-Nasa'i"
+    },
+    {
+        "index": 7,
+        "name": "tirmidhi",
+        "author_name": "Imām Abu `Isa Muhammad at-Tirmidhī"
+    }
+]
