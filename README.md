@@ -4,4 +4,4 @@ This is the source code of Hamza Bot. Hamza Bot has shut down, so I am releasing
 
 # Packages/Libraries to install
 
-openai, hijri_converter, discord, datetime, asyncio, aiohttp, typing, requests, asqlite, json, time, re, html, praw, enum, pytorch
+openai, hijri_converter, discord, datetime, asyncio, aiohttp, typing, requests, asqlite, json, time, re, html, praw, enum, pytorch, ffmpeg-python
